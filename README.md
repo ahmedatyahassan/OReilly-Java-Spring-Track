@@ -1,2 +1,2 @@
 # OReilly-Java-Spring-Track
-Includes all courses which I taken such as Spring, Spring boot, Spring JDBC, Spring JDA, Hibernate and Junit.
+This repository contains all my notes and code implementations for Java Spring Developer Track on [o'reilly](https://www.oreilly.com/)
